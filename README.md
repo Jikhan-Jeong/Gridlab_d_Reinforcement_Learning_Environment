@@ -9,9 +9,9 @@ reference: https://sourceforge.net/p/gridlab-d/discussion/
 # Tutorial 
 reference: http://gridlab-d.shoutwiki.com/wiki/GridLAB-D_Wiki:GridLAB-D_Tutorial_Chapter_0_-_Introduction
 
-1. Chapter 1 - Installing GridLAB-D
-2. Chapter 2 - GridLAB-D Key Attributes
-3. Chapter 3 - Basic Distribution System Modeling
+1. Chapter 1 - Installing GridLAB-D (done)
+2. Chapter 2 - GridLAB-D Key Attributes (done)
+3. Chapter 3 - Basic Distribution System Modeling (done)
 4. Chapter 4 - Data Input and Output
 5. Chapter 5 - Loads
 6. Chapter 6 - Distributed Generation
