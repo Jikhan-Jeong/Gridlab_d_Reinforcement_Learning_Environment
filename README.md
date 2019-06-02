@@ -22,5 +22,9 @@ reference: http://gridlab-d.shoutwiki.com/wiki/GridLAB-D_Wiki:GridLAB-D_Tutorial
 # Tutorial with video
 reference: http://gridlab-d.shoutwiki.com/wiki/Class_schedule
 
+2hour 45min
+(module3 : residentail and climate module) https://www.youtube.com/watch?v=B40OrL-nrCM&feature=youtu.be
+(module3 : resource github) https://github.com/gridlab-d/course/blob/master/OnlineTutorial_v22/Module3.zip
+
 # gridlab_d tutorial github
 https://github.com/gridlab-d/course/tree/master/Tutorial
