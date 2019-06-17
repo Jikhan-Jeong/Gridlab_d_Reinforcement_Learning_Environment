@@ -27,7 +27,7 @@ reference: http://gridlab-d.shoutwiki.com/wiki/Class_schedule
 (module3 : resource github) https://github.com/gridlab-d/course/blob/master/OnlineTutorial_v22/Module3.zip  
 
 gridlabd --modhelp residential (or climate) will show the list of help   
-
+residential model is based on kw, powerflow module is based on mw  (keep in mind)
 
 # gridlab_d tutorial github
 https://github.com/gridlab-d/course/tree/master/Tutorial
